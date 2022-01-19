@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "16a16d81-29db-4d89-b5c2-1c379b2a367d": {
+      "ProjectGuid": "16a16d81-29db-4d89-b5c2-1c379b2a367d",
+      "DisplayName": "HubukJobPortalAPI",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
