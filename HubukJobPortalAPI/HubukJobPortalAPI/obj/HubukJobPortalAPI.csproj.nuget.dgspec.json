@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\LENOVO L540\\source\\repos\\HubukJobPortalAPI\\HubukJobPortalAPI\\HubukJobPortalAPI\\HubukJobPortalAPI.csproj": {}
+    "C:\\Users\\JAS CAFE.NG\\Desktop\\JamhakaTech\\New folder\\HubukJobPortalAPI\\HubukJobPortalAPI\\HubukJobPortalAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\LENOVO L540\\source\\repos\\HubukJobPortalAPI\\HubukJobPortalAPI\\HubukJobPortalAPI\\HubukJobPortalAPI.csproj": {
+    "C:\\Users\\JAS CAFE.NG\\Desktop\\JamhakaTech\\New folder\\HubukJobPortalAPI\\HubukJobPortalAPI\\HubukJobPortalAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LENOVO L540\\source\\repos\\HubukJobPortalAPI\\HubukJobPortalAPI\\HubukJobPortalAPI\\HubukJobPortalAPI.csproj",
+        "projectUniqueName": "C:\\Users\\JAS CAFE.NG\\Desktop\\JamhakaTech\\New folder\\HubukJobPortalAPI\\HubukJobPortalAPI\\HubukJobPortalAPI.csproj",
         "projectName": "HubukJobPortalAPI",
-        "projectPath": "C:\\Users\\LENOVO L540\\source\\repos\\HubukJobPortalAPI\\HubukJobPortalAPI\\HubukJobPortalAPI\\HubukJobPortalAPI.csproj",
-        "packagesPath": "C:\\Users\\LENOVO L540\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LENOVO L540\\source\\repos\\HubukJobPortalAPI\\HubukJobPortalAPI\\HubukJobPortalAPI\\obj\\",
+        "projectPath": "C:\\Users\\JAS CAFE.NG\\Desktop\\JamhakaTech\\New folder\\HubukJobPortalAPI\\HubukJobPortalAPI\\HubukJobPortalAPI.csproj",
+        "packagesPath": "C:\\Users\\JAS CAFE.NG\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\JAS CAFE.NG\\Desktop\\JamhakaTech\\New folder\\HubukJobPortalAPI\\HubukJobPortalAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\LENOVO L540\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\JAS CAFE.NG\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -44,9 +44,17 @@
               "target": "Package",
               "version": "[6.0.1, )"
             },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[6.0.1, )"
             },

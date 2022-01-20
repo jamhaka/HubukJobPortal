@@ -5,8 +5,8 @@ var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 //Add DbContext service
-builder.Services.AddDbContext<AppDbContext>(options =>
-options.UseNpgsql("Host=localhost;Port=5432;Username=postgres;Password=Onimisi;Database=HubukJobPortalAPI"));
+//builder.Services.AddDbContext<AppDbContext>(options =>
+//options.UseNpgsql("Host=localhost;Port=5432;Username=postgres;Password=Kantamababba1986;Database=HubukJobPortalAPI"));
 
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle

@@ -1,4 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using HubukJobPortalAPI.Data.Entities.Models;
 
 namespace HubukJobPortalAPI.Data
 {
@@ -9,5 +10,6 @@ namespace HubukJobPortalAPI.Data
         {
             _options = options;
         }
+        public DbSet<HubukJobPortalAPI.Data.Entities.Models.Job> Jobs { get; set; }
     }
 }
